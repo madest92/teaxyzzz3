@@ -1,17 +1,17 @@
 from setuptools import setup
 
 setup(
-    author='Alex',
-    author_email='madest92@mail.com',
-    name='teaxyzzz2',
-    version='1.0.22',
-    description='A simple package for https://app.tea.xyz/. Example teaxyzzz2',
-    url='https://github.com/madest92/teaxyzzz2',
+    author='Alex-teaxyzzz3',
+    author_email='teaxyzzz3@mail.com',
+    name='teaxyzzz3',
+    version='1.0.33',
+    description='A simple package for https://app.tea.xyz/. Example teaxyzzz3',
+    url='https://github.com/madest92/teaxyzzz3',
     project_urls={
-        'Homepage': 'https://github.com/madest92/teaxyzzz2',
-        'Source': 'https://github.com/madest92/teaxyzzz2',
+        'Homepage': 'https://github.com/madest92/teaxyzzz3',
+        'Source': 'https://github.com/madest92/teaxyzzz3',
         },
-    py_modules=['hello_teaxyzzz2'],
+    py_modules=['hello_teaxyzzz3'],
     entry_points={
         'console_scripts': [
             'hello-tea=hello_tea:hello_tea_func'
